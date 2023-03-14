@@ -1,2 +1,2 @@
 #!/bin/bash
-var_Best=Shool
+set Best=Shool
